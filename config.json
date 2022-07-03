@@ -48,36 +48,6 @@
             "low_power_mode": 1,
             "affine_to_cpu": false,
             "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
-        },
-        {
-            "low_power_mode": 1,
-            "affine_to_cpu": false,
-            "asm": true
         }
     ],
     "user-agent": null,
